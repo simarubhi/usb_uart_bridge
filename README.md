@@ -2,7 +2,7 @@
 
 ## Goal
 
-I decided to build a small USB to UART Bridge as a mini project. This will be useful in my future projects with debugging and flashing custom micro controller boards.
+In order to debug and flash custom micro controller boards for future projects, I made a USB to UART bridge with the CP2102N chip. Parts are currently in transit and assembly will begin soon!
 
 ## Schematic
 
@@ -10,4 +10,8 @@ I decided to build a small USB to UART Bridge as a mini project. This will be us
 
 ## PCB Layout
 
-The PCB layout is nearly done, parts should be in by ~March 15th, and assembly will take place shortly after.
+![Layout](/Docs/layout.jpg)
+
+<br>
+
+![3D View](/Docs/3d.jpg)
