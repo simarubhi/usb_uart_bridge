@@ -2,7 +2,7 @@
 
 ## Goal
 
-In order to debug and flash custom micro controller boards for future projects, I made a USB to UART bridge with the CP2102N chip. Parts are currently in transit and assembly will begin soon!
+In order to debug and flash custom microcontroller boards for future projects, I made a USB to UART bridge with the CP2102N chip. Parts are currently in transit and assembly will begin soon!
 
 ## Schematic
 
